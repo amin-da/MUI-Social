@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MUI-Social/static/css/main.827893e8.css",
+    "main.js": "/MUI-Social/static/js/main.b97db6e8.js",
+    "index.html": "/MUI-Social/index.html",
+    "main.827893e8.css.map": "/MUI-Social/static/css/main.827893e8.css.map",
+    "main.b97db6e8.js.map": "/MUI-Social/static/js/main.b97db6e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827893e8.css",
+    "static/js/main.b97db6e8.js"
+  ]
+}
